@@ -1,7 +1,7 @@
 package urlbuilder_test
 
 import (
-	urlbuilder "go-urlbuilder"
+	urlbuilder "github.com/mikehepple/go-urlbuilder"
 	"testing"
 )
 
